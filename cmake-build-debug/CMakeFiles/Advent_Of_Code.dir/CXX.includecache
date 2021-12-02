@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/brendan/Coding/Advent_Of_Code/main.cpp
+iostream
+-
+string
+-
+vector
+-
+iostream
+-
+fstream
+-
+sstream
+-
+
